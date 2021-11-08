@@ -11,7 +11,6 @@ code --install-extension ahmadawais.shades-of-purple
 code --install-extension alexcvzz.vscode-sqlite
 code --install-extension andrejunges.Handlebars
 code --install-extension Angular.ng-template
-code --install-extension AngularDoc.angulardoc-vscode
 code --install-extension ban.spellright
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
